@@ -18,9 +18,12 @@ A mobile PWA for workouts, nutrition and everyday progress tracking. Its core fl
 | Source | Private; this repository contains only the showcase |
 
 <p align="center">
-  <a href="./assets/cover.jpg"><img src="./assets/cover.jpg" alt="TEMPO PULSE home screen on desktop" width="46%" /></a>
-  <a href="./assets/screen-home-mobile.jpg"><img src="./assets/screen-home-mobile.jpg" alt="TEMPO PULSE home screen on mobile" width="21%" /></a>
-  <a href="./assets/screen-workout-mobile.jpg"><img src="./assets/screen-workout-mobile.jpg" alt="Workout location selection in TEMPO PULSE" width="21%" /></a>
+  <a href="./assets/cover.jpg"><img src="./assets/cover.jpg" alt="TEMPO PULSE home screen on desktop" width="400" /></a>
+</p>
+
+<p align="center">
+  <a href="./assets/screen-home-mobile.jpg"><img src="./assets/screen-home-mobile.jpg" alt="TEMPO PULSE home screen on mobile" width="180" /></a>
+  <a href="./assets/screen-workout-mobile.jpg"><img src="./assets/screen-workout-mobile.jpg" alt="Workout location selection in TEMPO PULSE" width="180" /></a>
 </p>
 
 ## Everyday flow

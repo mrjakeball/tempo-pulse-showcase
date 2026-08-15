@@ -18,9 +18,12 @@
 | Исходники | Приватны; этот репозиторий содержит только витрину |
 
 <p align="center">
-  <a href="./assets/cover.jpg"><img src="./assets/cover.jpg" alt="Главный экран TEMPO PULSE на компьютере" width="46%" /></a>
-  <a href="./assets/screen-home-mobile.jpg"><img src="./assets/screen-home-mobile.jpg" alt="Главный экран TEMPO PULSE на телефоне" width="21%" /></a>
-  <a href="./assets/screen-workout-mobile.jpg"><img src="./assets/screen-workout-mobile.jpg" alt="Выбор места тренировки в TEMPO PULSE" width="21%" /></a>
+  <a href="./assets/cover.jpg"><img src="./assets/cover.jpg" alt="Главный экран TEMPO PULSE на компьютере" width="400" /></a>
+</p>
+
+<p align="center">
+  <a href="./assets/screen-home-mobile.jpg"><img src="./assets/screen-home-mobile.jpg" alt="Главный экран TEMPO PULSE на телефоне" width="180" /></a>
+  <a href="./assets/screen-workout-mobile.jpg"><img src="./assets/screen-workout-mobile.jpg" alt="Выбор места тренировки в TEMPO PULSE" width="180" /></a>
 </p>
 
 ## Повседневный сценарий
