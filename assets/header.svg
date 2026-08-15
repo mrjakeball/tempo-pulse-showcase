@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">TEMPO PULSE</title>
+  <desc id="desc">Dark technical banner for a mobile fitness PWA</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#090C0A"/>
+      <stop offset="1" stop-color="#172019"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#B7F34A"/>
+      <stop offset="1" stop-color="#42F5C5"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#354039" stroke-width="1" opacity=".34"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="260" rx="18" fill="url(#grid)"/>
+  <path d="M0 208h205l22-42 38 65 38-118 45 95h852" fill="none" stroke="url(#accent)" stroke-width="3" opacity=".7"/>
+  <circle cx="348" cy="208" r="5" fill="#B7F34A">
+    <animate attributeName="opacity" values=".35;1;.35" dur="2.8s" repeatCount="indefinite"/>
+  </circle>
+  <g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+    <text x="54" y="52" fill="#8B949E" font-size="15" letter-spacing="3">PROJECT DOSSIER · MOBILE / LOCAL-FIRST</text>
+    <text x="54" y="126" fill="#F0F6FC" font-size="48" font-weight="700" letter-spacing="2">TEMPO PULSE</text>
+    <text x="57" y="164" fill="#D9F99D" font-size="20">train · track · recover</text>
+    <text x="978" y="52" fill="#B7F34A" font-size="15">STATUS / ACTIVE</text>
+  </g>
+  <rect x="1" y="1" width="1198" height="258" rx="17" fill="none" stroke="#354039" stroke-width="2"/>
+</svg>
