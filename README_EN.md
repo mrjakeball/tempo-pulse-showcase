@@ -21,9 +21,11 @@ React 19 · TypeScript · Dexie · WebAuthn
 
 **On the device.** Dexie manages local records so the diary can be revisited without a continuous connection. The app supports a PIN and device sign-in through WebAuthn.
 
-## Original images
+## From the daily overview to a workout
 
-[Daily overview](assets/screen-home-mobile.jpg) · [Choosing a workout location](assets/screen-workout-mobile.jpg) · [Wide-screen overview](assets/cover.jpg)
+**[Today](assets/screen-home-mobile.jpg)** · Daily goals sit at the top of the mobile view, with the upcoming workout below.
+
+**[Workout setup](assets/screen-workout-mobile.jpg)** · Before the session starts, the app asks where the user will train. The screenshot captures this choice before the exercises begin.
 
 <details>
 <summary>View the gallery</summary>
