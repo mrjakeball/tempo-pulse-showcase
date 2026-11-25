@@ -10,7 +10,7 @@
 
 ![TEMPO PULSE — Сводка дня](assets/social-preview.jpg)
 
-<a href="https://tempo-fitness-pwa.pages.dev/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/app-ru.svg" height="36" alt="Открыть приложение"></a>
+<a href="https://tempo-fitness-pwa.pages.dev/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/app-ru.svg" height="36" alt="Открыть приложение"></a>
 
 Опубликованная PWA · Публичная витрина приватного проекта  
 React 19 · TypeScript · Dexie · WebAuthn

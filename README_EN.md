@@ -10,7 +10,7 @@ A training and nutrition diary. The Today screen brings daily entries together, 
 
 ![TEMPO PULSE — Daily overview](assets/social-preview.jpg)
 
-<a href="https://tempo-fitness-pwa.pages.dev/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/actions/app-en.svg" height="36" alt="Open the app"></a>
+<a href="https://tempo-fitness-pwa.pages.dev/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/app-en.svg" height="36" alt="Open the app"></a>
 
 Published PWA · Public showcase of a private project  
 React 19 · TypeScript · Dexie · WebAuthn
