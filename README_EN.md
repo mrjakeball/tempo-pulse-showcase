@@ -1,7 +1,7 @@
 <p>
-<a href="README.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/ru-off.svg" height="32" alt="Русский"></a>
-<a href="README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/en-on.svg" height="32" alt="English · selected"></a>
-<a href="https://github.com/mrjakeball/portfolio/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/catalog-en.svg" height="32" alt="Project catalogue"></a>
+<a href="README.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-off.svg" height="44" alt="Русский"></a>
+<a href="README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-on.svg" height="44" alt="English · selected"></a>
+<a href="https://github.com/mrjakeball/portfolio/blob/main/README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/catalog-en.svg" height="44" alt="Project catalogue"></a>
 </p>
 
 # TEMPO PULSE
@@ -10,7 +10,7 @@ A training and nutrition diary. The Today screen brings daily entries together, 
 
 ![TEMPO PULSE — Daily overview](assets/social-preview.jpg)
 
-<a href="https://tempo-fitness-pwa.pages.dev/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/app-en.svg" height="36" alt="Open the app"></a>
+<a href="https://tempo-fitness-pwa.pages.dev/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/buttons/app-en.svg" height="36" alt="Open the app"></a>
 
 Published PWA · Public showcase of a private project  
 React 19 · TypeScript · Dexie · WebAuthn

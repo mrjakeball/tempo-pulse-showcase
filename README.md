@@ -1,7 +1,7 @@
 <p>
-<a href="README.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/ru-on.svg" height="32" alt="Русский · выбран"></a>
-<a href="README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/en-off.svg" height="32" alt="English"></a>
-<a href="https://github.com/mrjakeball/portfolio"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/ui/catalog-ru.svg" height="32" alt="Каталог проектов"></a>
+<a href="README.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/ru-on.svg" height="44" alt="Русский · выбран"></a>
+<a href="README_EN.md"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/en-off.svg" height="44" alt="English"></a>
+<a href="https://github.com/mrjakeball/portfolio"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/navigation/catalog-ru.svg" height="44" alt="Каталог проектов"></a>
 </p>
 
 # TEMPO PULSE
@@ -10,7 +10,7 @@
 
 ![TEMPO PULSE — Сводка дня](assets/social-preview.jpg)
 
-<a href="https://tempo-fitness-pwa.pages.dev/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/links/app-ru.svg" height="36" alt="Открыть приложение"></a>
+<a href="https://tempo-fitness-pwa.pages.dev/"><img src="https://raw.githubusercontent.com/mrjakeball/mrjakeball/main/assets/buttons/app-ru.svg" height="36" alt="Открыть приложение"></a>
 
 Опубликованная PWA · Публичная витрина приватного проекта  
 React 19 · TypeScript · Dexie · WebAuthn
